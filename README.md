@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Olá! Me chamo Vitória, sou Desenvolvedora Back-End em formação e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Tiradentes (Unit).<br><br>Tenho formação técnica em Eletrônica pelo IFS e hoje atuo na área de Suporte em TI, o que me permite ter contato diário com problemas reais e pensar em soluções práticas usando tecnologia.<br><br>Meu foco atual está no ecossistema C# e .NET, onde venho desenvolvendo habilidades em construção de APIs REST, integração com banco de dados (SQL Server), e boas práticas no desenvolvimento de software.<br><br>Também tenho experiência com desenvolvimento web utilizando HTML, CSS e JavaScript, e já participei de projetos com foco em acessibilidade e entrega real para usuários, como o site institucional do SVO (Serviço de Verificação de Óbito) da Fundação Parreiras Horta.<br><br>Sou movida por desafios, gosto de aprender novas tecnologias e estou sempre buscando evoluir como desenvolvedora — com código limpo, propósito e entrega.</p>
+<p align="left">Olá! Me chamo Vitória, sou Desenvolvedora Back-End em formação e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Tiradentes (Unit).<br>Tenho formação técnica em Eletrônica pelo IFS e hoje atuo na área de Suporte em TI, o que me permite ter contato diário com problemas reais e pensar em soluções práticas usando tecnologia.<br>Meu foco atual está no ecossistema C# e .NET, onde venho desenvolvendo habilidades em construção de APIs REST, integração com banco de dados (SQL Server), e boas práticas no desenvolvimento de software.<br><br>Também tenho experiência com desenvolvimento web utilizando HTML, CSS e JavaScript, e já participei de projetos com foco em acessibilidade e entrega real para usuários, como o site institucional do SVO (Serviço de Verificação de Óbito) da Fundação Parreiras Horta.<br><br>Sou movida por desafios, gosto de aprender novas tecnologias e estou sempre buscando evoluir como desenvolvedora — com código limpo, propósito e entrega.</p>
 
 ###
 
@@ -27,19 +27,23 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
 ###
