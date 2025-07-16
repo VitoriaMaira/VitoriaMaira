@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Desenvolvedora Back-End em formação, cursando Análise e Desenvolvimento de Sistemas na Unit.  <br>Atuo como suporte em TI e sou formada técnica em eletrônica pelo IFS.  <br>Focada em C# e .NET, com interesse em APIs, SQL e lógica de programação.</p>
+<p align="center">Olá! Me chamo Vitória, sou Desenvolvedora Back-End em formação e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade Tiradentes (Unit).<br><br>Tenho formação técnica em Eletrônica pelo IFS e hoje atuo na área de Suporte em TI, o que me permite ter contato diário com problemas reais e pensar em soluções práticas usando tecnologia.<br><br>Meu foco atual está no ecossistema C# e .NET, onde venho desenvolvendo habilidades em construção de APIs REST, integração com banco de dados (SQL Server), e boas práticas no desenvolvimento de software.<br><br>Também tenho experiência com desenvolvimento web utilizando HTML, CSS e JavaScript, e já participei de projetos com foco em acessibilidade e entrega real para usuários, como o site institucional do SVO (Serviço de Verificação de Óbito) da Fundação Parreiras Horta.<br><br>Sou movida por desafios, gosto de aprender novas tecnologias e estou sempre buscando evoluir como desenvolvedora — com código limpo, propósito e entrega.</p>
 
 ###
 
@@ -15,13 +15,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitoriaMaira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitoriaMaira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=VitoriaMaira&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitoriaMaira&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/VitoriaMaira/VitoriaMaira/output/snake.svg" alt="Snake animation" />
 
 ###
 
